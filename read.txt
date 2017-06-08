@@ -7,4 +7,8 @@ GIt ccc
 Git ddd
 GIt eee
 GIt ggg
-GIt ffd
+<<<<<<< HEAD
+GIt fff
+=======
+GIt fff
+>>>>>>> dev
