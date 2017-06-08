@@ -20,3 +20,4 @@ GIT f
 GIT c
 
 >>>>>>> dev3
+GIT g
