@@ -4,3 +4,4 @@ Git atribute  is ery good
 Git aaa
 Git bbb
 GIt ccc
+Git ddd
