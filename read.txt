@@ -13,5 +13,10 @@ GIt fff
 GIt fff
 >>>>>>> dev
 GIT a
+<<<<<<< HEAD
 GIT b
-GIT d
+GIT f
+=======
+GIT c
+
+>>>>>>> dev3
