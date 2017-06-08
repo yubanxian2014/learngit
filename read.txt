@@ -13,3 +13,4 @@ GIt fff
 GIt fff
 >>>>>>> dev
 GIT a
+GIT b
