@@ -12,3 +12,4 @@ GIt fff
 =======
 GIt fff
 >>>>>>> dev
+GIT a
