@@ -22,3 +22,4 @@ GIT c
 >>>>>>> dev3
 GIT g
 GIT g
+Git fea
